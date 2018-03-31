@@ -1,0 +1,1 @@
+Quizás tengamos que cambiarnos de casillero antes de sacar la bolita. Fijate para dónde habría que mover la luz amalilla. 
