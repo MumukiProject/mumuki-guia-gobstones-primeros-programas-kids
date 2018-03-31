@@ -1,0 +1,1 @@
+Asegurate de que queden bien encastrados los bloques. Fijate también que cada bloque tiene un texto que nos dice qué hacer, lo que nos ayudará a entender cómo usarlo :wink:.
