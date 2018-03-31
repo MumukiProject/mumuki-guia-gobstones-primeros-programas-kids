@@ -1,0 +1,1 @@
+Probá invertir el orden de los comandos. Aunque Mukinita lo lea y ejecute en otro orden, el resultado debería ser el mismo. :wink:
