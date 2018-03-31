@@ -1,0 +1,1 @@
+¡Cuidado!: Esta vez arrancaremos parados en un casillero al Norte. Lo importante es llegar a destino. ¡Probemos! :blush:
