@@ -1,0 +1,3 @@
+Los programas también se pueden romper. Y, aunque no nos guste, esto pasa muy seguido, ¡quizás hasta ya te sucedió en algún problema! ¡Descubramos por qué! :smirk:
+
+> Armá un programa que se mueva al Sur y fijate qué sucede. 
