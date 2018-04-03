@@ -1,3 +1,5 @@
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/toolbox.xml"></gs-toolbox>
+
 Veamos este programa:
 
 ```gobstones

@@ -1,3 +1,5 @@
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/toolbox.xml"></gs-toolbox>
+
 Todo muy lindo, pero... ¿cómo hacemos para crear nuestros propios `programas`?
 
 Fácil: usando esas caijitas de colores con texto que vimos en los ejercicios anteriores, a las que llamaremos bloques. Y al igual que los bloquecitos de plástico, los podemos encastrar para construir graaaaaandes cosas. 
