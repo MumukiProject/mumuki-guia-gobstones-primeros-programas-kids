@@ -2,4 +2,4 @@ Como habrás visto, estos tableros son un poco mágicos, porque nos dejan poner 
 
 Esto es algo interesante que ocurre al programar: podemos trabajar con cantidades tan grandes como queramos.
 
-> En este turno ganamos 4 casas, y pudimos adoptar 3 perros :blush:. Armá el programa que agregue esa cantidad de bolitas rojas (4 :house:) y negras (3 :dog:) en el casillero actual. 
+> En este turno ganamos 4 casas, y pudimos adoptar 3 perros :blush:. Armá el programa que agregue esa cantidad de bolitas rojas (4 :house: ) y negras (3 :dog: ) en el casillero actual. 
