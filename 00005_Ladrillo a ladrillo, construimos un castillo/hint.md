@@ -1,1 +1,3 @@
-Asegurate de que queden bien encastrados los bloques. Fijate también que cada bloque tiene un texto que nos dice qué hacer, lo que nos ayudará a entender cómo usarlo :wink:.
+¿No encontrás los bloques? `Mover` está dentro de `Comandos` y `Norte` dentro de `Colores y direcciones`.
+
+Fijate también que cada bloque tiene un texto que nos dice qué hacer, lo que nos ayudará a entender cómo usarlo :wink:.
