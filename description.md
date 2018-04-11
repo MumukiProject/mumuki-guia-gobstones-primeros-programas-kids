@@ -2,4 +2,4 @@
 
 ¿Sabés qué tienen todos ellos en común? ¡Un tablero! Y por cada casillero avanzamos, a veces perdiendo cosas, y otras veces ganando. Pero el objetivo siempre es el mismo: ¡divertirse! Y mejor aún si además aprendemos cosas nuevas.  :blush: 
 
-Conozcamos un juego nuevo llamado Gobstones, que también tiene un tablero con casilleros, bolitas y muchas cosas para aprender divirtiéndonos. ¡Empecemos!
+Conozcamos un juego nuevo llamado _Gobstones_, que también tiene un tablero con casilleros, bolitas y muchas cosas para aprender divirtiéndonos. ¡Empecemos!
