@@ -2,4 +2,4 @@
 
 ¡Veamos otra forma de movernos por el tablero!
 
-> Dale un vistazo a los _bloquecitos_ que están abajo. Y después apretá _play_ para ver qué sucede con la luz amarilla en el tablero inicial. ¿Hay algún cambio en la forma de movernos? :wink: 
+> Apretá _play_ de nuevo para ver qué sucede con la luz amarilla en el tablero inicial. ¿Hay algún cambio en la forma de movernos? :wink: 
