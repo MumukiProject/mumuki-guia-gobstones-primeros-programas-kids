@@ -2,4 +2,5 @@
 
 ¿Pero por qué decimos `Norte`, `Este`? En Gobstones no existe arriba, abajo, izquierda o derecha, sino que nos guiamos por los puntos cardinales `Norte` :arrow_up:, `Sur` :arrow_down:, `Oeste` :arrow_left: y `Este` :arrow_right: . Te dejaremos siempre un dibujo como este de ayuda:
 
-Y como te habrás dado cuenta, el tablero no tiene siempre la misma forma. Será rectangular o cuadrado, y variará en la cantidad de casilleros. Pero eso no será problema. :wink: 
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/images/rosa_vientos_1523478047010.png" alt="rosa_vientos_1523478047010.png" width="150" height="auto">
+
