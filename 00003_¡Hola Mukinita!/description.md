@@ -6,4 +6,4 @@ Una máquina llamada _Mukinita_ resuelve lo que le pedimos. Cuando nos queremos 
 
 Mukinita habla el _lenguaje_ Gobstones, que es parecido al español pero más limitado. ¡Vamos a tener que aprender a comunicarnos con ella! :raising_hand:
 
-> ¿Por qué decimos que Gobstones es más limitado que el español? Mirá **abajo** cómo le pedimos a Mukinita movernos dos casilleros al `Norte`, y luego apretá play. 
+> ¿Por qué decimos que Gobstones es más limitado que el español? Mirá **abajo** cómo le pedimos a Mukinita movernos dos casilleros al `Norte`, y luego apretá _play_. 
