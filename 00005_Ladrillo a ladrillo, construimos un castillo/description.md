@@ -8,4 +8,4 @@ Pero claro, ¡no podés encastrarlos de cualquier manera! Los programas que cons
 
 ¡Basta de tanta charla! ¡Empecemos a jugar!
 
-> Arrastrá el bloque de `Mover` adentro del bloque `programa`, y luego agregale el bloque de `Norte` para que se lea `Mover Norte` como en los programas anteriores. Dale play al terminar. 
+> Arrastrá el bloque de `Mover` adentro del bloque `programa`, y luego agregale el bloque de `Norte` para que se lea `Mover Norte` como en los programas anteriores. Dale _play_ al terminar. 
