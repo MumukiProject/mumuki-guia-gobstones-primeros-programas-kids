@@ -6,4 +6,4 @@ Y también vimos que, si queremos movernos dos veces, debemos usar dos veces ese
 
 ¡Vayamos más lejos en un nuevo desafío! :muscle:
 
-> Armá un programa que nos mueva tres casilleros al `Norte`. 
+> Armá un programa que nos mueva tres casilleros al `Norte`. Al terminar de ejecutarse, el tablero se tiene que ver como el _tablero final_ que está abajo a la derecha.  
