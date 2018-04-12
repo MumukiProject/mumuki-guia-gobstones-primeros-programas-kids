@@ -1,0 +1,13 @@
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/toolbox.xml"></gs-toolbox>
+
+Veamos este programa:
+
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/images/opcion3_1523542688151.png" alt="opcion3_1523542688151.png" width="auto" height="auto">
+
+¿Qué dirías que hace? Si leemos al programa de arriba hacia abajo, tal como lo hace y ejecuta la máquina, concluimos que _se mueve primero al norte, y luego al este_
+ 
+Pero, ¿no podríamos explicarlo sin hablar del orden de los comandos? Podríamos decir directamente que  _se mueve al noroeste_. Y así hablamos de lo mismo, pero sin dar detalles innecesarios. 
+
+Por eso, hay varias formas de resolver un mismo problema, escribiendo un programa que haga lo mismo, pero de distintas maneras.
+
+> Armá un programa diferente, que nos mueva al noreste.
