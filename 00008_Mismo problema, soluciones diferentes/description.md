@@ -4,7 +4,7 @@ Veamos este programa:
 
 <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/images/opcion3_1523542688151.png" alt="opcion3_1523542688151.png" width="auto" height="auto">
 
-¿Qué dirías que hace? Si leemos al programa de arriba hacia abajo, tal como lo hace y ejecuta la máquina, concluimos que _se mueve primero al norte, y luego al este_
+¿Qué dirías que hace? Si leemos al programa de arriba hacia abajo, tal como lo hace y ejecuta Mukinita, concluimos que _se mueve primero al norte, y luego al este_
  
 Pero, ¿no podríamos explicarlo sin hablar del orden de los comandos? Podríamos decir directamente que  _se mueve al noroeste_. Y así hablamos de lo mismo, pero sin dar detalles innecesarios. 
 
