@@ -1,3 +1,5 @@
+**¡BOOOOOOOOOOOOOOOOOM!** :bomb: :bomb: :bomb:
+
 _Ey, ¿qué pasó?_ :worried: 
 
 Tu programa falló, se rompió, o como lo llamamos en Gobstones: **hizo BOOM**.
