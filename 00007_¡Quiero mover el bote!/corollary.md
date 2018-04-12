@@ -1,4 +1,4 @@
-¿Se te ocurre un programa diferente que te permita llegar al mismo lugar? Eso es porque no hay una única forma de resolver los problemas, y el orden, a veces, no es tan importante. 
+¿Se te ocurre un programa diferente que te permita llegar al mismo lugar? ¡Es porque no hay una única forma de resolver los problemas! 
 
 Te dejamos otras dos soluciones posibles: 
 
