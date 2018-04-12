@@ -2,4 +2,4 @@
 
 Los programas también se pueden romper. Y, aunque no nos guste, esto pasa muy seguido, ¡quizás hasta ya te sucedió en algún problema! ¡Descubramos por qué! :sunglasses:
 
-> Armá un programa que se mueva al Sur y fijate qué sucede. 
+> Armá un programa que se mueva al `Sur` y fijate qué sucede. 
