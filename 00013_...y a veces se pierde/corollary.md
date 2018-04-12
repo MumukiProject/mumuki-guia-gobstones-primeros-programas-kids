@@ -1,1 +1,1 @@
-Lo hiciste genial. :smile: ¿Pero qué pasaría si intentaras sacar la bolita roja de un casillero en el que no hay rojas? :frowning: Acá sí era importante el orden de los comandos. :grimacing: 
+Lo hiciste genial. :smile: ¿Pero qué pasaría si intentaras sacar la bolita roja de un casillero en el que no hay rojas? :frowning: ¡Se rompería!. :bomb: 
