@@ -2,4 +2,4 @@ Nos movimos dos veces hacia el `Norte`. Peeero, en lugar de decir _mover dos vec
 
 Todo lo que queramos que haga Mukinita deberemos ponerlo dentro de una cajita llamada `programa`. Mukinita leerá nuestro `programa` y ejecutará los comandos que haya dentro. 
 
-Lenguaje, programa, ejecutar... :cold_sweat: Uff, ¡parece díficil! Pero a no desesperar, que de a poco entenderemos todo :wink:. 
+Lenguaje, programa, ejecutar... :cold_sweat: Uff, ¡parece difícil! Pero a no desesperar, que de a poco entenderemos todo :wink:.
