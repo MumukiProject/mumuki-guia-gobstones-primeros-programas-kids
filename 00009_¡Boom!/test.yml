@@ -1,3 +1,4 @@
+check_head_position: true
 examples:
  - title: '¡BOOM!'
    initial_board: |
