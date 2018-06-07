@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/images/amarillo_1523479918009.png" alt="amarillo_1523479918009.png" width="auto" height="auto">
+<div class="text-center"><img src="https://mumuki.io/static/for_content/regla_oro.svg" alt="regla deoro"></div>
 
 Y llegó el turno de la regla de oro :trident:, la más importante que debemos tener en cuenta siempre para no frustrarnos y disfrutar del juego: a partir de este momento, nos convertiremos en programadoras y programadores. :scream:
 
