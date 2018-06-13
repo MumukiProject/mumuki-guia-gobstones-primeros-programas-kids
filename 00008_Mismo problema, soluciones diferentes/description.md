@@ -6,7 +6,7 @@ Veamos este programa:
 
 ¿Qué dirías que hace? Si leemos al programa de arriba hacia abajo, tal como lo hace y ejecuta Mukinita, concluimos que _se mueve primero al norte, y luego al este_
  
-Pero, ¿no podríamos explicarlo sin hablar del orden de los comandos? Podríamos decir directamente que  _se mueve al noroeste_. Y así hablamos de lo mismo, pero sin dar detalles innecesarios. 
+Pero, ¿no podríamos explicarlo sin hablar del orden de los comandos? Podríamos decir directamente que  _se mueve al noreste_. Y así hablamos de lo mismo, pero sin dar detalles innecesarios. 
 
 Por eso, hay varias formas de resolver un mismo problema, escribiendo un programa que haga lo mismo, pero de distinta manera.
 
