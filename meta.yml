@@ -3,11 +3,7 @@ name: Primeros Programas
 locale: es
 type: learning
 beta: false
-teacher_info: "* Objetivo: divertirse. \n* Juego: Gobstones, Programar en gobstones\n*
-  Casillero: Celda\n* Reglas:\n  - Siempre posicionado en un casillero\n  - podemos
-  movernos\n  - tenemos que decirle a mukinita qué hacer, en un lenguaje llamado Gobstones\n*
-  Luz amarilla: cabezal\n* Mukinita: Motor de Gobstones, Runtime\n* Casillero iluminado:
-  Casillero Actual / Donde estamos parados\n* Tablero final: Tablero esperado\n"
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order:
@@ -26,3 +22,4 @@ order:
 - 13
 - 14
 - 15
+private: false
