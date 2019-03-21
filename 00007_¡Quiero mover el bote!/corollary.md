@@ -1,4 +1,4 @@
-¿Se te ocurre un programa diferente que te permita llegar al mismo lugar? ¡Es porque no hay una única forma de resolver los problemas! 
+¿Se te ocurre un programa diferente que te permita llegar al mismo lugar? ¡Es porque no hay una única forma de resolver los problemas! :scream:
 
 Te dejamos otras dos soluciones posibles: 
 
