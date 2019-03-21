@@ -1,1 +1,1 @@
-¡Probá invertir el orden de los comandos y fijate qué pasa!
+¡Probá invertir el orden de los comandos! 
