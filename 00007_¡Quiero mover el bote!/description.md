@@ -1,4 +1,4 @@
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/toolbox.xml"></gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/assets/toolbox_1553274591838.xml"></gs-toolbox>
 
 En este juego, desde donde estemos parados podemos movernos a cualquier casillero vecino: al `Norte`, `Sur`, `Este` u `Oeste`.  ¡Combinemos esos movimientos en un `programa`! :grin:
 
