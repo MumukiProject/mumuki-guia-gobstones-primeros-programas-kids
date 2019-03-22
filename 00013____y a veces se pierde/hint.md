@@ -1,1 +1,1 @@
-Antes de sacar la bolita, vamos a tener que movernos hacia el `Sur` :wink:
+Antes de sacar la bolita, vamos a tener que movernos hacia el `Sur`.
