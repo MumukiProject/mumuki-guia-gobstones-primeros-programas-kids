@@ -8,4 +8,4 @@ Pero claro, ¡no podés encastrarlos de cualquier manera :sweat_smile:! Los prog
 
 ¡Basta de tanta charla! ¡Empecemos a jugar! :ok_woman:
 
-> Arrastrá el bloque de `Mover` adentro del bloque `programa`, y luego agregale el bloque de `Este` para que se lea `Mover Este` como en los programas anteriores. Dale _play_ al terminar. ¿No encontrás los bloques? Andá a la pista apretando la lamparita. :bulb:
+> Arrastrá el bloque de `Mover` adentro del bloque `programa`, y luego agregale el bloque de `Este` para que se lea `Mover Este` como en los programas anteriores. Dale _play_ al terminar. ¿No encontrás los bloques? Andá a la pista apretando la _lamparita_. :bulb:
