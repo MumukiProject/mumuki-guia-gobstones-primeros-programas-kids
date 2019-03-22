@@ -1,1 +1,1 @@
-Lo hiciste genial. :smile: ¿Pero qué pasaría si intentaras sacar la bolita roja de un casillero en el que no hay rojas? :frowning: ¡Se rompería!. :bomb: 
+Lo hiciste genial. :smile: ¿Pero qué pasaría si intentaras sacar la bolita roja de un casillero en el que no hay rojas? :frowning: ¡Se rompería! :bomb: 
