@@ -1,3 +1,3 @@
-¡Felicitaciones! :tada: Acabamos de armar un programa que pone una bolita roja. 
+¡Felicitaciones! :tada: Acabamos de armar un programa que pone una bolita roja. :red_circle:
 
-Como ves, al comando `Poner` le agregamos el color de bolita a poner, pero no dónde: siempre las pondrá en el casillero iluminado, o sea, donde estemos parados.
+Al comando `Poner` le agregamos el color de bolita que queremos poner :stuck_out_tongue_winking_eye:. ¿Y dónde? :hushed: Siempre lo hará en el casillero iluminado, o sea, donde nos encontremos.
