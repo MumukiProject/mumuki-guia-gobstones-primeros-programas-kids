@@ -2,4 +2,4 @@
 
 Como habrás visto, estos tableros son un poco mágicos :tophat::crystal_ball:, porque nos dejan poner todas las bolitas que queramos :blush:. Y esto es gracias al maravilloso mundo de la programación. :sparkles:
 
-> En este turno ganamos 4 casas, y pudimos adoptar 3 perros. Armá el `programa` que agregue esa cantidad de bolitas `rojas` (4 :house:) y `negras` (3 :dog:) en el casillero actual. 
+> En este turno ganamos 4 casas y pudimos adoptar 3 perros. Armá el `programa` que agregue esa cantidad de bolitas `rojas` (4 :house:) y `negras` (3 :dog:) en el casillero actual. 
