@@ -1,4 +1,4 @@
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/toolbox.xml"></gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/assets/toolbox_1553274591838.xml"></gs-toolbox>
 
 Como en todo juego, hay reglas. Conozcamos la primera de ellas:
 
