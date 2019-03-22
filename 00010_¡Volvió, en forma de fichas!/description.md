@@ -1,4 +1,4 @@
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/toolbox.xml"></gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/assets/toolbox_1553274591838.xml"></gs-toolbox>
 
 ¡Genial! Ya sabemos cómo movernos por el tablero. Agreguemos entonces objetos al juego. Para eso, usaremos fichas con forma de bolitas de 4 colores: `Rojo`, `Azul`, `Negro` y `Verde`. 
 
