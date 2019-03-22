@@ -1,4 +1,4 @@
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/toolbox.xml"></gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/assets/toolbox_1553274591838.xml"></gs-toolbox>
 
 Como habrás visto, estos tableros son un poco mágicos, porque nos dejan poner todas las bolitas que queramos: 2, 4, 12, 50, 1000. ¡No hay límites! :open_mouth:
 
